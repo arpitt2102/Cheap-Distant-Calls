@@ -1,22 +1,3 @@
-/* PLEASE DO NOT MODIFY A SINGLE STATEMENT IN THE TEXT BELOW.
-READ THE FOLLOWING CAREFULLY AND FILL IN THE GAPS
-
-I hereby declare that all the work that was required to 
-solve the following problem including designing the algorithms
-and writing the code below, is solely my own and that I received
-no help in creating this solution and I have not discussed my solution 
-with anybody. I affirm that I have read and understood
-the Senate Policy on Academic honesty at 
-https://secretariat-policies.info.yorku.ca/policies/academic-honesty-senate-policy-on/
-and I am well aware of the seriousness of the matter and the penalties that I will face as a 
-result of committing plagiarism in this assignment.
-
-BY FILLING THE GAPS,YOU ARE SIGNING THE ABOVE STATEMENTS.
-
-Full Name: Arpit Nileshbhai Thakkar
-Student Number: 217632340
-Course Section: Z
-*/
 
 package eecs2030.pe2;
 
@@ -32,7 +13,6 @@ import java.util.Set;
  * If the card was then used to call +14167362100 in Canada for 2 minutes, its call history would then become [call to number +14167362100 in zone CANADA for 2 minutes]. If the card was then used to call +14152121000 in the USA for 2 minutes, 
  * its call history would then become [call to number +14167362100 in zone CANADA for 2 minutes, call to number +14152121000 in zone USA for 2 minutes]. Every time a call is successfully charged to the card, 
  * it is added to the call history. The relation between SmartAmericas10Card and its call history is composition.
- * @author EECS2030
  *
  */
 
